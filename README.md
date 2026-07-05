@@ -22,8 +22,8 @@ An interactive, production-ready Deep Reinforcement Learning project that trains
 
 ---
 ## 📂 Images
-  [Dashboard_UI][Images/dashboard.png]
-  [Trip_MAP][Images/trip1_visual_map.png]
+  ![Dashboard_UI](Images/dashboard.png)
+  ![Trip_MAP](Images/trip1_visual_map.png)
 ---
 
 ## 📂 Project Architecture
